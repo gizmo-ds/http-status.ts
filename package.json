@@ -1,0 +1,11 @@
+{
+  "name": "http-status",
+  "module": "index.ts",
+  "type": "module",
+  "author": {
+    "name": "Gizmo",
+    "email": "me@aika.dev"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/gizmo-ds/http-status.ts"
+}
